@@ -1,1 +1,2 @@
-# weather-API
+Hello...! , Welcome to my weather API - This code is fully furnished by my effort and learned a lot in the COVID.
+So make use of it and learn lot...
